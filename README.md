@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Matthias "Mozi" Samek</h1>
 <h3 align="center">A passionate Web developer from Austria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tattoomozi&label=Profile%20views&color=0e75b6&style=flat" alt="tattoomozi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmozable&label=Profile%20views&color=0e75b6&style=flat" alt="itsmozable" /> </p>
 
 <p align="left"> <a href="https://twitter.com/itsmozable" target="blank"><img src="https://img.shields.io/twitter/follow/itsmozable?logo=twitter&style=for-the-badge" alt="itsmozable" /></a> </p>
 
-- 🔭 I’m currently working on [an Lost and Found App](https://github.com/tattoomozi/lost-and-found-final)
+- 🔭 I’m currently working on [a Lost and Found App](https://github.com/itsmozable/lost-and-found-mobile-application)
 
-- 🌱 I’m currently learning **React Native, React, NextJs, TypeScript**
+- 🌱 I’m currently learning **React Native, React, NextJs and TypeScript**
 
 - 👯 I’m looking to collaborate on **new and existing projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tattoomozi](https://github.com/tattoomozi)
+- 👨‍💻 All of my projects are available at [https://github.com/itsmozable](https://github.com/itsmozable)
 
 - 📫 How to reach me **itsmozable@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/tattoomozi](https://github.com/tattoomozi)
+- 📄 Know about my experiences [https://github.com/itsmozable](https://github.com/itsmozable)
 
 - ⚡ Hobbies **motorbike riding, reading, cooking,**
 
