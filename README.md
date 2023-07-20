@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsmozable" target="blank"><img src="https://img.shields.io/twitter/follow/itsmozable?logo=twitter&style=for-the-badge" alt="itsmozable" /></a> </p>
 
-- 🔭 I’m currently working on [a Lost and Found App](https://github.com/itsmozable/lost-and-found-mobile-application)
+- 🔭 I’m currently working on [a Lost and Found mobile application](https://github.com/itsmozable/lost-and-found-mobile-application)
 
 - 🌱 I’m currently learning **React Native, React, NextJs and TypeScript**
 
