@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthias "Mozi" Samek</h1>
-<h3 align="center">A passionate Web developer from Austria living in Sweden</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Austria currently living in Sweden with a focus on UI/UX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmozable&label=Profile%20views&color=0e75b6&style=flat" alt="itsmozable" /> </p>
 
